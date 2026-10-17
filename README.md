@@ -1,7 +1,7 @@
 # Kilat-Line Tracer Robot
 Changelog
 1. trace delay added
-18/10/2026 Reorganise the library code in more cleaner format (kilat.h & kilat.cpp)
+2. 18/10/2026 Reorganise the library code in more cleaner format (kilat.h & kilat.cpp)
 
 # Installation guide
 1. Download the latest custom mBlock at https://drive.google.com/file/d/14SeQ3soiTEHgXAxd6-Lw7MC8B_yi80yt/view?usp=sharing
