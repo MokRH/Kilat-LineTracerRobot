@@ -1,6 +1,6 @@
 # Kilat-Line Tracer Robot
 Changelog
-1. 6/6/2022 trace delay added
+1. 06/06/2022 trace delay added
 2. 18/10/2026 Reorganise the library code in more cleaner format (kilat.h & kilat.cpp)
 
 # Installation guide
